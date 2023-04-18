@@ -1,11 +1,3 @@
 ### CS50 AI course
 
----
-
-This repository contains all my solution to labs and the course resources including slides and code examples.
-
-[Course Website](https://cs50.harvard.edu/ai/2020/)
-
-### Wanna Learn More ?
-
-Check out [this repository](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) which contains all my self-learning materials : )
+This is a very basic AI introductory course. What makes people's eyes bright is 12 well-designed programming assignments, which will use the AI knowledge learned to realize a simple game AI, such as training a Nim game AI with reinforcement learning, using alpha-beta pruning to minesweeper, etc.
